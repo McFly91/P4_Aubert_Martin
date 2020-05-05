@@ -14,7 +14,9 @@ button {
 }
 
 li a {
+    font-size: 18px;
     text-decoration-line: underline;
+    line-height: 2.7;
 }
 
 a:hover {
@@ -681,7 +683,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -714,7 +716,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
